@@ -41,6 +41,11 @@ p {
 
 #menu a {
   color: rgb(253 , 251 , 251);
+  opacity: 0.9;
+}
+
+#menu a:hover {
+  opacity: 1;
 }
 
 #titulo {
