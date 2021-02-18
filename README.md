@@ -1,5 +1,11 @@
 # Boas vindas ao repositório do projeto Lições Aprendidas!
 
+## Requisitos do projeto
+
+### 💡Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto. Lembre-se que você pode ~~e deve~~ ir além para deixar o projeto com a sua cara e impressionar à todos!
+
+![exemplo](exemplo.png)
+
 ## Requisitos Obrigatórios:
 
 Você deve criar um site que com uma série de informações a respeito do que você aprendeu nos últimos três blocos, estilizado de forma apropriada.
